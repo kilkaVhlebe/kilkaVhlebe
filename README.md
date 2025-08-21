@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kilka_v_hlebe) [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Kilkavhlebe)
 
-[url=https://mynickname.com/id1834792][img]https://mynickname.com/forum/Kilka_v_HJIebe.gif[/img][/url]
+[url=https://mynickname.com/id1834792][img]https://mynickname.com/forum3t0/Kilka_v_HJIebe.gif[/img][/url]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
